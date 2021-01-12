@@ -22,4 +22,6 @@ There are two parts to the case study:
 
 In general, the sample mean we calculate will not be equal to the population mean (as we saw above). A consequence of this is that the sum of squares of the deviations from the population mean will be bigger than the sum of squares of the deviations from the sample mean. In other words, the sum of squares of the deviations from the sample mean is too small to give an unbiased estimate of the population variance. An example of this effect is given here. Scaling our estimate of the variance by the factor  𝑛/(𝑛−1)  gives an unbiased estimator of the population variance. This factor is known as Bessel's correction. The consequence of this is that the  𝑛  in the denominator is replaced by  𝑛−1 .
 
-$\sqrt{\frac{\sum_i(x_i - \bar{x})^2}{n-1}}$
+[\sqrt{\frac{\sum_i(x_i - \bar{x})^2}{n-1}}]
+
+\frac{\sigma}{\mu}
