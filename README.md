@@ -18,16 +18,16 @@ There are two parts to the case study:
    * In Part B, we’ll apply those implementations to a real-world scenario.    
    
    
-### Sample & population:    
+## Sample & population:    
 
 In general, the sample mean we calculate will not be equal to the population mean (as we saw above). A consequence of this is that the sum of squares of the deviations from the population mean will be bigger than the sum of squares of the deviations from the sample mean. In other words, the sum of squares of the deviations from the sample mean is too small to give an unbiased estimate of the population variance. An example of this effect is given here. Scaling our estimate of the variance by the factor  𝑛/(𝑛−1)  gives an unbiased estimator of the population variance. This factor is known as Bessel's correction. The consequence of this is that the  𝑛  in the denominator is replaced by  𝑛−1 .
 
-### Standard Normal Distribution:
+## Standard Normal Distribution:
 
 ![Normal_Distribution](https://user-images.githubusercontent.com/67468718/104243194-11866980-5415-11eb-8d05-166649e01d15.JPG)
 
 
-### Margin of Error:
+## Margin of Error:
 
 #### The margin of error can be calculated after finding the values of:
   1. Critical value of the sample
@@ -48,5 +48,8 @@ Standard Error of the sample can be calculated using below:
  
  Standard Error(Sample) = 𝜎 / sqrt(n)
  
+## Confidence Interval :
+   Confidence Interval of the mean, can be calculated per below:
+   population_mean ± margin_error
 
 
