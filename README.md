@@ -18,7 +18,7 @@ There are two parts to the case study:
    * In Part B, we’ll apply those implementations to a real-world scenario.    
    
    
-## Sample & population:    
+## Sample & Population:    
 
 In general, the sample mean we calculate will not be equal to the population mean (as we saw above). A consequence of this is that the sum of squares of the deviations from the population mean will be bigger than the sum of squares of the deviations from the sample mean. In other words, the sum of squares of the deviations from the sample mean is too small to give an unbiased estimate of the population variance. An example of this effect is given here. Scaling our estimate of the variance by the factor  𝑛/(𝑛−1)  gives an unbiased estimator of the population variance. This factor is known as Bessel's correction. The consequence of this is that the  𝑛  in the denominator is replaced by  𝑛−1 .
 
@@ -55,11 +55,11 @@ Confidence Interval of the mean, can be calculated using: **population_mean ± m
 
 The p-value is the probability of obtaining the observed results of a test, assuming that the null hypothesis is correct; a smaller p-value means that there is stronger evidence in favor of the alternative hypothesis.
 
-## statistical power:
+## Statistical Power:
 
 ‘Statistical power’ refers to the power of a binary hypothesis, which is the probability that the test rejects the null hypothesis given that the alternative hypothesis is true.
 
-## The statistical significance:
+## The Statistical Significance:
 
 hypothesis testing to determine statistical significance:
   * State the null hypothesis and alternative hypothesis. 
