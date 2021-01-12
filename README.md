@@ -49,6 +49,6 @@ Standard Error of the sample can be calculated using below:
  Standard Error(Sample) = 𝜎 / sqrt(n)
  
 ## Confidence Interval :
-Confidence Interval of the mean, can be calculated using: population_mean ± margin_error
+Confidence Interval of the mean, can be calculated using: **population_mean ± margin_error**
 
 
