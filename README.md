@@ -27,3 +27,6 @@ In general, the sample mean we calculate will not be equal to the population mea
 \frac{\sigma}{\mu}
 
 %5Csqrt%7B%5Cfrac%7B%5Csum_i%28x_i+-+%5Cbar%7Bx%7D%29%5E2%7D%7Bn-1%7D%7D
+
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{\frac{\sum_i(x_i&space;-&space;\bar{x})^2}{n-1}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt{\frac{\sum_i(x_i&space;-&space;\bar{x})^2}{n-1}}" title="\sqrt{\frac{\sum_i(x_i - \bar{x})^2}{n-1}}" /></a>
