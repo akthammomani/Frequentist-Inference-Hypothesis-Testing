@@ -35,25 +35,18 @@ In general, the sample mean we calculate will not be equal to the population mea
   
 **Margin of Error = Critical value * Standard Error**
   
-####   Critical value of the sample can be calculated using below: 
- confidence level= 95% 
+Critical value of the sample can be calculated using below: 
+  confidence level= 95% 
 
-  1. Let's calculate alpha: by subtract 95% (confidence level) from 100%. That gives us 5% (0.05). 
-This alpha level is the area in both of thesetails. What we are interested in is this critical value here, so we need to do a little more math.
-
-  2. Divide Alpha by 2 and this gives (0.025), because we're only interested in the area for one tail, not the area for both tails. So this is the area in one tail, this 5% alpha
-level. 
-
+  1. Let's calculate alpha: by subtract 95% (confidence level) from 100%. That gives us 5% (0.05). This alpha level is the area in both of thesetails. What we are interested in is this critical value here, so we need to do a little more math.
+  2. Divide Alpha by 2 and this gives (0.025), because we're only interested in the area for one tail, not the area for both tails. So this is the area in one tail, this 5% alpha level. 
   3. Subtract 0.025 from 1 (1-0.025 = 0.975): The reason we did this step is we're subtracting this area from 1 and that gives us all of this area to the left, and that means we can look up this critical value here in the z table. 
-
   4. By looking at the "z table" for an area of 97.5%. My area of 97.5%, that's .975 is going to fall in between: x-axis (0.05 - 0.06 = 0.055) and y-axis (1.9)
   5. So the **critical value is going to be 1.955 (Right)** and the **critical value is going to be -1.955 (left).**
   
-  
-####   Standard Error of the sample can be calculated using below:  
-
+Standard Error of the sample can be calculated using below:  
  
- $Standard Error(Sample) = {\frac{𝜎 }{sqrt(n)}}$
+ Standard Error(Sample) = 𝜎 / sqrt(n)
  
 
 
