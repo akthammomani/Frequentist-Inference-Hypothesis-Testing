@@ -14,5 +14,5 @@ In this case study, we’ll learn more about frequentist inference. **Frequentis
     
 
 There are two parts to the case study: 
-   * In part A, we’ll learn the Pythonic implementation of the concepts underlying frequentist inference. 
+   * In part A, we’ll highlight the Pythonic implementation of the concepts underlying frequentist inference. 
    * In Part B, we’ll apply those implementations to a real-world scenario.    
