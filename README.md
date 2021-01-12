@@ -25,3 +25,5 @@ In general, the sample mean we calculate will not be equal to the population mea
 [\sqrt{\frac{\sum_i(x_i - \bar{x})^2}{n-1}}]
 
 \frac{\sigma}{\mu}
+
+%5Csqrt%7B%5Cfrac%7B%5Csum_i%28x_i+-+%5Cbar%7Bx%7D%29%5E2%7D%7Bn-1%7D%7D
