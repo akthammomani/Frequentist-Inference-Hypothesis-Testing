@@ -24,4 +24,4 @@ In general, the sample mean we calculate will not be equal to the population mea
 
 
 
-![equation](http://www.sciweavers.org/tex2img.php?eq=1%2Bsin%28mc%5E2%29&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=)
+![equation](http://www.sciweavers.org/tex2img.php?eq=%5Csqrt%7B%5Cfrac%7B%5Csum_i%28x_i%20-%20%5Cbar%7Bx%7D%29%5E2%7D%7Bn-1%7D%7D&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0)
