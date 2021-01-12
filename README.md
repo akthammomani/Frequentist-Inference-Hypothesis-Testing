@@ -51,10 +51,10 @@ Standard Error of the sample can be calculated using below:
  
  Standard Error(Sample) = 𝜎 / sqrt(n)
  
+ ![z_table](https://user-images.githubusercontent.com/67468718/104377243-08f86680-54db-11eb-9ef4-46983ea1a97d.JPG)
+ 
 ## Confidence Interval :
 Confidence Interval of the mean, can be calculated using: **population_mean ± margin_error**
-
-![z_table](https://user-images.githubusercontent.com/67468718/104377243-08f86680-54db-11eb-9ef4-46983ea1a97d.JPG)
 
 ## p-value :
 
