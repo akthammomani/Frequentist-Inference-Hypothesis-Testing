@@ -9,7 +9,7 @@
    * How to estimate the population mean and standard deviation from a sample
    * The concept of a sampling distribution of a test statistic, particularly for the mean
    * Identifying the correct way to estimate the standard deviation of a population (the population parameter) from a sample
-   * how to combine these concepts to calculate a confidence interval
+   * How to combine these concepts to calculate a confidence interval
    * Calculating critical values, confidence intervals and p-values
    * Hypothesis testing: forming a hypothesis and framing the null and alternative hypotheses.
     
