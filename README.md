@@ -32,6 +32,11 @@ In general, the sample mean we calculate will not be equal to the population mea
 
 ## Margin of Error:
 
+A margin of error tells you how many percentage points your results will differ from the real population value. For example, a 95% confidence interval with a 4 percent margin of error means that your statistic will be within 4 percentage points of the real population value 95% of the time.
+
+More technically, the margin of error is the range of values below and above the sample statistic in a confidence interval. The confidence interval is a way to show what the uncertainty is with a certain statistic (i.e. from a poll or survey).
+For example, a poll might state that there is a 98% confidence interval of 4.88 and 5.26. That means if the poll is repeated using the same techniques, 98% of the time the true population parameter (parameter vs. statistic) will fall within the interval estimates (i.e. between 4.88 and 5.26) 98% of the time.
+
 #### The margin of error can be calculated after finding the values of:
   1. Critical value of the sample
   2. Standard Error of the sample 
