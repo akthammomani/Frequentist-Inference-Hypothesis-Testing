@@ -50,6 +50,6 @@ Standard Error of the sample can be calculated using below:
  
 ## Confidence Interval :
    Confidence Interval of the mean, can be calculated per below:
-   population_mean ± margin_error
+      population_mean ± margin_error
 
 
