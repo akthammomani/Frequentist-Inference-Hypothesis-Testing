@@ -5,12 +5,13 @@
    * The z-statistic
    * The t-statistic
    * The difference and relationship between the two
-   * The Central Limit Theorem, including its assumptions and consequences
+   * The Central Limit Theorem, including its assumptions and consequences: to apply frequentist techniques to answer questions that pertain to very non-normally distributed data from the real world.
    * How to estimate the population mean and standard deviation from a sample
    * The concept of a sampling distribution of a test statistic, particularly for the mean
+   * Identifying the correct way to estimate the standard deviation of a population (the population parameter) from a sample
    * how to combine these concepts to calculate a confidence interval
-   * Calculating confidence intervals and p-values
-   * Hypothesis testing
+   * Calculating critical values, confidence intervals and p-values
+   * Hypothesis testing: forming a hypothesis and framing the null and alternative hypotheses.
     
 
 There are two parts to the case study: 
