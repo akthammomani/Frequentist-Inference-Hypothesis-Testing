@@ -1,6 +1,6 @@
 # Frequentist Inference: 
 
-In this case study, we’ll learn more about frequentist inference. **Frequentist inference** is the process of deriving conclusions about an underlying distribution via the observation of data. In particular, you'll practice writing Python code to apply the following statistical concepts:
+**Frequentist inference** is the process of deriving conclusions about an underlying distribution via the observation of data. In particular, you'll practice writing Python code to apply the following statistical concepts:
 
    * The z-statistic
    * The t-statistic
