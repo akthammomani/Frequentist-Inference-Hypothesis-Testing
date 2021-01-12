@@ -51,4 +51,22 @@ Standard Error of the sample can be calculated using below:
 ## Confidence Interval :
 Confidence Interval of the mean, can be calculated using: **population_mean ± margin_error**
 
+## p-value :
+
+The p-value is the probability of obtaining the observed results of a test, assuming that the null hypothesis is correct; a smaller p-value means that there is stronger evidence in favor of the alternative hypothesis.
+
+## statistical power:
+
+‘Statistical power’ refers to the power of a binary hypothesis, which is the probability that the test rejects the null hypothesis given that the alternative hypothesis is true.
+
+## The statistical significance:
+
+hypothesis testing to determine statistical significance:
+  * State the null hypothesis and alternative hypothesis. 
+  * Calculate the p-value, the probability of obtaining the observed results of a test assuming that the null hypothesis is true. 
+  * Set the level of the significance (alpha) and if the p-value is less than the alpha, you would reject the null — in other words, the result is statistically significant.
+
+
+
+
 
