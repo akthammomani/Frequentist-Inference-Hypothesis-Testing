@@ -2,7 +2,7 @@
 
 **Frequentist inference** is the process of deriving conclusions about an underlying distribution via the observation of data. 
 
-we'll practice writing Python code to apply the following statistical concepts:
+we'll be writing Python codes to apply the following statistical concepts:
 
    * The z-statistic
    * The t-statistic
@@ -16,7 +16,7 @@ we'll practice writing Python code to apply the following statistical concepts:
    * Hypothesis testing: forming a hypothesis and framing the null and alternative hypotheses.
     
 
-There are two parts to the case study: 
+There are two parts to the project: 
    * In part A, we’ll highlight the Pythonic implementation of the concepts underlying frequentist inference. 
    * In Part B, we’ll apply those implementations to a real-world scenario.    
    
