@@ -65,11 +65,11 @@ Confidence Interval of the mean, can be calculated using: **population_mean ± m
 
 The p-value is the probability of obtaining the observed results of a test, assuming that the null hypothesis is correct; a smaller p-value means that there is stronger evidence in favor of the alternative hypothesis.
 
-## Statistical Power:
+## ✰ Statistical Power:
 
 ‘Statistical power’ refers to the power of a binary hypothesis, which is the probability that the test rejects the null hypothesis given that the alternative hypothesis is true.
 
-## The Statistical Significance:
+## ✰ The Statistical Significance:
 
 hypothesis testing to determine statistical significance:
   * State the null hypothesis and alternative hypothesis. 
