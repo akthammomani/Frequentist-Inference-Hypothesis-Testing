@@ -21,7 +21,7 @@ There are two parts to the project:
    * In Part B, we’ll apply those implementations to a real-world scenario.    
    
    
-## Sample & Population:    
+## ✰ Sample & Population:    
 
 In general, the sample mean we calculate will not be equal to the population mean. A consequence of this is that the sum of squares of the deviations from the population mean will be bigger than the sum of squares of the deviations from the sample mean. In other words, the sum of squares of the deviations from the sample mean is too small to give an unbiased estimate of the population variance. An example of this effect is given here. Scaling our estimate of the variance by the factor  𝑛/(𝑛−1)  gives an unbiased estimator of the population variance. This factor is known as Bessel's correction. The consequence of this is that the  𝑛  in the denominator is replaced by  𝑛−1 .
 
@@ -30,14 +30,14 @@ In general, the sample mean we calculate will not be equal to the population mea
 ![Normal_Distribution](https://user-images.githubusercontent.com/67468718/104243194-11866980-5415-11eb-8d05-166649e01d15.JPG)
 
 
-## Margin of Error:
+## ✰ Margin of Error:
 
 A margin of error tells you how many percentage points your results will differ from the real population value. For example, a 95% confidence interval with a 4 percent margin of error means that your statistic will be within 4 percentage points of the real population value 95% of the time.
 
 More technically, the margin of error is the range of values below and above the sample statistic in a confidence interval. The confidence interval is a way to show what the uncertainty is with a certain statistic (i.e. from a poll or survey).
 For example, a poll might state that there is a 98% confidence interval of 4.88 and 5.26. That means if the poll is repeated using the same techniques, 98% of the time the true population parameter (parameter vs. statistic) will fall within the interval estimates (i.e. between 4.88 and 5.26) 98% of the time.
 
-#### The margin of error can be calculated after finding the values of:
+#### ✰ The margin of error can be calculated after finding the values of:
   1. Critical value of the sample
   2. Standard Error of the sample 
   
@@ -58,10 +58,10 @@ Standard Error of the sample can be calculated using below:
  
  ![z_table](https://user-images.githubusercontent.com/67468718/104377243-08f86680-54db-11eb-9ef4-46983ea1a97d.JPG)
  
-## Confidence Interval :
+## ✰ Confidence Interval :
 Confidence Interval of the mean, can be calculated using: **population_mean ± margin_error**
 
-## p-value :
+## ✰ p-value :
 
 The p-value is the probability of obtaining the observed results of a test, assuming that the null hypothesis is correct; a smaller p-value means that there is stronger evidence in favor of the alternative hypothesis.
 
